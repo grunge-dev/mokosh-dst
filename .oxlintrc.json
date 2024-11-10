@@ -1,0 +1,4 @@
+{
+  "ignores": ["**/dist/**", "**/node_modules/**"],
+  "files": ["**/*.{js,ts,tsx}"]
+}
